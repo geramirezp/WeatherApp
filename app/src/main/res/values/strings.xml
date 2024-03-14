@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="label_location">Location</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_button_next">Next Random Location</string>
+    <string name="label_button_try">Try again</string>
+</resources>
